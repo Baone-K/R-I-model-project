@@ -56,7 +56,7 @@ with st.container():
     submit = st.button("Predict Placement")
 
 if submit:
-    API_URL = "http://127.0.0.1:8000/predict"
+    API_URL = = "https://r-i-model-project-1.onrender.com"
     
     payload = {
         "Gender": gender, "University_Year": uni_year, "Major": major, "Attendance_Percentage": attendance,
