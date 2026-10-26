@@ -4,6 +4,7 @@ scikit-learn
 streamlit
 joblib
 plotly
+plotly-express
 plotly>=5.20
 streamlit>=1.30
 fastapi
