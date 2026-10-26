@@ -4,6 +4,5 @@ scikit-learn
 streamlit
 joblib
 plotly
-plotly-express
 fastapi
 uvicorn
