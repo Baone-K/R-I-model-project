@@ -6,3 +6,5 @@ joblib
 plotly
 plotly>=5.20
 streamlit>=1.30
+fastapi
+uvicorn
