@@ -1,0 +1,29 @@
+Feature,Coefficient
+English_Proficiency_Intermediate,0.1000442038883792
+University_Year_Junior,0.08870817042612811
+University_Year_Sophomore,0.06861572342984298
+Major_Information Technology,0.043142476893736834
+Major_Computer Science,0.037674068055311705
+Major_Business Analytics,0.0342575957503111
+University_Year_Senior,0.029953038733677845
+English_Proficiency_Basic,0.028569305923067695
+GitHub_Profile_Yes,0.01007380704334947
+Major_Software Engineering,0.00345011614218009
+Major_Electrical Engineering,-0.00011613535308886237
+Teamwork,-0.004861144054945574
+Gender_Male,-0.0057949466146333195
+Attendance_Percentage,-0.0059968718865555755
+Study_Hours_Per_Week,-0.00824189155213351
+Gender_Other,-0.012053022435779917
+Major_Cybersecurity,-0.013566027585347681
+Hackathons,-0.015571423585033871
+Leadership_Experience_Yes,-0.02515265774069237
+LinkedIn_Profile_Yes,-0.03541275050742503
+Major_Data Science,-0.0429303313679697
+Projects_Completed,-0.090939744155936
+Certifications,-0.09238438998061023
+Communication_Skills,-0.12335479049796441
+Problem_Solving,-0.1616722807219716
+Programming_Skill,-0.2475587783097638
+CGPA,-0.34978541573414745
+Internships,-0.393619435485847
