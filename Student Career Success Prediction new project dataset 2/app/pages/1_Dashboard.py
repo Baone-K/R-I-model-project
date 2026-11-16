@@ -1,4 +1,4 @@
-# app/pages/1_📊_Dashboard.py
+# app/pages/1_Dashboard.py
 import os
 import sys
 import streamlit as st
@@ -12,6 +12,27 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from shared import load_clean_data
 
 st.set_page_config(page_title="Overview Dashboard", page_icon="📊", layout="wide")
+
+st.markdown(
+    """
+    <style>
+    .block-container {
+        width: 100%;
+        max-width: 1200px;
+        padding-top: clamp(1rem, 2vw, 2rem);
+        padding-bottom: 2rem;
+        padding-left: clamp(1rem, 3vw, 2.5rem);
+        padding-right: clamp(1rem, 3vw, 2.5rem);
+    }
+    @media (max-width: 640px) {
+        h1 { font-size: 1.7rem !important; }
+        h2 { font-size: 1.35rem !important; }
+        h3 { font-size: 1.1rem !important; }
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 
 # -----------------------------
 # Load data
